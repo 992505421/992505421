@@ -1,6 +1,6 @@
 - 👋 olá,sou @CrisleyMatheus 
 - 👨🏾‍🎓 Estou cursando Análise e desenvolvimento de sistema
-- 🌱 Quero seguir na carreira DEV só que não tenho oportunidade de trabalho onde moro
+- 🌱 Quero seguir na carreira DEV 
 - 📫 meu contato (64) 992505421
 @crisleymatheus 
 
